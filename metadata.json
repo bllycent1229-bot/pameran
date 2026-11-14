@@ -1,0 +1,6 @@
+{
+  "name": "KratonLoka",
+  "description": "Galeri foto acara berbasis scan barcode dengan filter foto, caption AI otomatis, berbagi ke media sosial, studio Twibbon Jawa modern, notifikasi push, serta panel admin kurasi dan analitik.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
